@@ -1,0 +1,2 @@
+{"eventId":"event-0001","schemaVersion":1,"sessionId":"session-1","playerId":"player-1","occurredAt":"2026-08-31T00:00:00.000Z","eventName":"login_completed","properties":{"provider":"4399","durationMs":200,"result":"success"}}
+{"eventId":"event-0002","schemaVersion":1,"sessionId":"session-1","playerId":"player-1","occurredAt":"2026-08-31T00:01:00.000Z","eventName":"performance_sample","properties":{"surface":"battle","fps":60,"memoryBytes":400000000,"frameP95Ms":18}}

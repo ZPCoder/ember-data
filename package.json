@@ -1,0 +1,10 @@
+{
+  "name": "@ember/data",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "validate": "node scripts/validate-export.mjs fixtures/events.ndjson"
+  }
+}
