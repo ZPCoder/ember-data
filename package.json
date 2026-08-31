@@ -1,6 +1,6 @@
 {
-  "name": "@ember/data",
-  "version": "1.0.0",
+  "name": "@zpcoder/ember-data",
+  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {

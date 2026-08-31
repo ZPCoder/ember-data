@@ -1,4 +1,4 @@
-# ember-data
+# @zpcoder/ember-data
 
 Unified game-event policy, daily export validation, and operational reports. The backend owns the source tables and exports append-only events; this repository never becomes a gameplay or asset authority.
 
